@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoInacio4&show_icons=true&theme=dracula)
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoInacio4&show_icons=true&theme=radical)
 
 ### Tecnologias 
 <div style="display: inline-block"><br/>
